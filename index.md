@@ -20,8 +20,7 @@ page_sections:
     button_text: Get Started
 - template: hero-banner-w-image
   block: hero-2
-  headline: Objectionly<br><strong>Train your reps and deliver your message like never
-    before</strong>
+  headline: Objectionly<br><strong>Get through your sales objections like never before</strong>
   content: ''
   cta:
     enabled: true
