@@ -14,7 +14,7 @@ page_sections:
   - link: "#"
     link_text: Pricing
   - link: "#"
-    link_text: Team
+    link_text: Community
   cta:
     url: http://google.com
     button_text: Get Started
