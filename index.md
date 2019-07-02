@@ -36,8 +36,8 @@ page_sections:
   media_alignment: Left
   headline: <strong>Organize &amp; Bring<span class="light"> </span></strong><span
     class="light">your sales playbook to life</span>
-  content: 'Save manager''s time, let knowledge flow freely when they need it the
-    most. '
+  content: "-Save manager's time<br>-Let knowledge flow freely and give a consistent
+    experience from one rep to the rest. <br>"
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
