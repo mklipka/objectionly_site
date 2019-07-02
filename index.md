@@ -43,7 +43,7 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Built with ☺ in Boston
 
 ---
 foo bar
