@@ -40,18 +40,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 'Sales is taking the right actions and saying the right things and the
-      right time. '
-    content: ''
-  col_2:
-    headline: What is the cost of saying the wrong thing on a call?
-    content: ''
-  col_3:
-    headline: There by your side when your salespeople need it the most
-    content: ''
 - template: simple-footer
   block: footer-1
   content: Built with ☺ in Boston
