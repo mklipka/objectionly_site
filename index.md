@@ -20,7 +20,7 @@ page_sections:
     button_text: Get Started
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Get through your sales objections <br></strong>like never before"
+  headline: "<strong>Get by your sales objections <br></strong>like never before"
   content: ''
   cta:
     enabled: true
