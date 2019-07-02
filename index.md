@@ -51,7 +51,7 @@ page_sections:
     headline: What is the cost of saying the wrong thing on a call?
     content: ''
   col_3:
-    headline: ''
+    headline: There by your side when your salespeople need it the most
     content: ''
 - template: simple-footer
   block: footer-1
