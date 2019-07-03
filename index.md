@@ -43,6 +43,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Built with ☺ in Boston
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 
 ---
 foo bar
