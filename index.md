@@ -46,7 +46,7 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   content: ''
-  email_recipient: ''
+  email_recipient: mklipka@gmail.com
 
 ---
 foo bar
