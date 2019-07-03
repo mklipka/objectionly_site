@@ -12,7 +12,7 @@ page_sections:
   - link: "#"
     link_text: Features & Pricing
   - link: "#"
-    link_text: Pricing
+    link_text: Marketplace
   - link: "#"
     link_text: Community
   cta:
