@@ -38,7 +38,7 @@ page_sections:
   content: "-Save manager's time<br>-Let knowledge flow freely and give a consistent
     experience from one rep to the rest. <br>"
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2019/07/03/product-shot-1.png"
     alt_text: uBuild Blocks Mock-Up
 - template: simple-footer
   block: footer-1
