@@ -40,13 +40,13 @@ page_sections:
   media:
     image: "/uploads/2019/07/03/product-shot-1.png"
     alt_text: uBuild Blocks Mock-Up
-- template: simple-footer
-  block: footer-1
-  content: Built with ☺ in Boston
 - template: signup-bar
   block: cta-bar
   content: ''
   email_recipient: mklipka@gmail.com
+- template: simple-footer
+  block: footer-1
+  content: Built with ☺ in Boston
 
 ---
 foo bar
